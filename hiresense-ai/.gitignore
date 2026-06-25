@@ -1,0 +1,31 @@
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Cache / runtime artifacts
+.cache/
+data/faiss_index/*.index
+data/faiss_index/*.json
+!data/faiss_index/.gitkeep
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+tests/fixtures/test.index
+tests/fixtures/test_meta.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large/raw data (use scripts/build_index.py to regenerate locally)
+data/full_resumes.csv

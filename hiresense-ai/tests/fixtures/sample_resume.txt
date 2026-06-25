@@ -1,0 +1,23 @@
+JANE DOE
+Software Engineer
+
+SUMMARY
+Backend-focused software engineer with 4 years of experience building
+REST APIs and data pipelines. Proficient in Python, Flask, PostgreSQL,
+and Docker. Comfortable working in agile teams and mentoring juniors.
+
+EXPERIENCE
+Backend Engineer, Acme Corp (2021 - Present)
+- Built and maintained REST API services using Flask and PostgreSQL.
+- Containerized services with Docker and deployed to AWS ECS.
+- Wrote unit tests with pytest, raising coverage from 40% to 85%.
+
+Junior Developer, Beta Inc (2019 - 2021)
+- Maintained internal tools written in Python and SQL.
+- Collaborated with the data team on ETL scripts using pandas.
+
+SKILLS
+Python, Flask, SQL, PostgreSQL, Docker, Git, REST API, pytest, pandas
+
+EDUCATION
+B.S. Computer Science, State University, 2019
